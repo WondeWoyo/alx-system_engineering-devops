@@ -1,0 +1,10 @@
+#!/bin/bash
+echo $(ls * / -d)
+echo "breaker"
+for a in $(ls * / -d)
+	 
+do
+    
+    echo $a
+    
+done
