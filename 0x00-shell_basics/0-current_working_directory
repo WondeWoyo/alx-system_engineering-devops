@@ -1,3 +1,2 @@
 #!/bin/bash
 val= $(dirname $(realpath $0))
-
