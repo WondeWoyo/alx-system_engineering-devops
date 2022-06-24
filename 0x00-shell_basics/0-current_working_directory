@@ -1,2 +1,2 @@
 #!/bin/bash
-val= $(dirname $(realpath $0))
+return $(dirname $(realpath $0))
